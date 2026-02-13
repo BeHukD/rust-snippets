@@ -1,3 +1,3 @@
 # rust-snippets
 
-Tiny CLI-style Python utilities (seed project).
+## !!ВАЖНО!! РЕПОЗИТОРИЙ ПОЛНОСТЬЮ ВЕДЁТ ИСКУСТВЕННЫЙ ИНТЕЛЕКТ
